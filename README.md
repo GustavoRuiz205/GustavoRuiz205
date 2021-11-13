@@ -21,7 +21,7 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.6435-9/62175856_1357382857750987_4202090754232811520_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeE3_eTi8cwBbTIpB6DthBsJpNuDzwtxGFSk24PPC3EYVD4iVsLGrNw01qerZmJM-j76wx1Si0lcYmGYIqydDRa-&_nc_ohc=5ntAx6P_kOMAX-N5yoh&_nc_ht=scontent.fcgh2-1.fna&oh=6e0b66de83f896f4814348d5dc52b7a3&oe=61B48268">
+   
 </div>
   
   ##
