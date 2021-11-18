@@ -21,7 +21,7 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"> 
-</div>
+  <img align="right" alt="Avatar" height="200" width="200" src="https://pbs.twimg.com/profile_images/1461347685726765063/bPpb1oYA_400x400.jpg">                                  </div>
  
 ##
                                                                                                                                                
