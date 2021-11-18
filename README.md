@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Gustavo Ruiz Prestes 👋
 
 - 🔭 Gosto muito de front-end e BI
-- 🌱 Estudando de Typescript e Angular
+- 🌱 Estudando Angular
 - 📫 Contate-me no email: gustavoruizprestes@yahoo.com.br
 - 😄 Pronouns: ele/dele
 
