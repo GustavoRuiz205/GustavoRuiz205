@@ -21,7 +21,7 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"> 
-  <img align="right" alt="Avatar" height="200" width="200" src="https://pbs.twimg.com/profile_images/1461347685726765063/bPpb1oYA_400x400.jpg">                                  </div>
+  <img align="right" alt="Avatar" height="200" width="200" src="https://lh3.googleusercontent.com/TrM_RN13pywwxvGInLiv-8bK9_RNQK_M7et5Xdk-x73Gizs2MJ_y0RV23AGwc1m-03g2-Vq-7DIgurY9kDRG_JFfct-OeP1Fafc1_kQXmln_nXnAX17W-wueIPrvAax0Y16972inspxyo-CLyLC6FOvXRlIsU4UFt-JYLFhorHdTUsMQ5gS02o1z5Yv9TotnQvP7D3zjoClNZijrTUAU4vIMlZY5yBhc0qumunDyUexODSW4jWAlhjmgRMKdeKH1SAiwjmgd8frO1A3Fwhcf8vmpvYxRtt0Ies0oQ-MCmfWOVKp03butRv4eiApeDM2ZRwzNeMDQu_CyUlqADjMaESZufXE-SnHn6ZnyKCWFxr5IDN-x7lkocDz2Egs7tYyRMqKkKyQzqQ_BhopVWbGskwVaRpccH1A73LxwjLu8bgBzSyQ55vdFZJXb-hKyP9gT0ULHNwiizzEzA6OMbbzMZGiGJYIE-k04Cxu4o_vyV27G83W4KEdTqNyScBcQnwqx00Gnpbrfy4Q0q5Yit-np2H7xdCzkO3aGE9dPHVhdogwSGVRY-beUT0Z64vNch5a5r6wf-zOFiLDgl4Obpp0n7qiAynS1RZ9coSFjf9yC3a6Q_6g90dqdV5hkyuSs2so_c_8odFimz_awk_slDzN5IGpGbKGY6sgNrbhykpnpSFcHWQ9mUOJUxx9_raJTHRkfWPeD61osI1mVGs-qurTLXoo=w399-h410-no?authuser=0">     </div>
  
 ##
                                                                                                                                                
