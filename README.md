@@ -23,7 +23,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
-  <img align="center" alt="MySQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">                               <img align="right" alt="Avatar" height="150" width="150" src="https://lh3.googleusercontent.com/a-/AOh14GiByXPC-eBcGnQLxzjzB5bb7eafisCKPFlCqJfEyQ=s288-p-rw-no">     
+  <img align="center" alt="MySQL" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">                               <img align="right" alt="Avatar" height="150" width="150" src="https://lh3.googleusercontent.com/a-/AOh14GiByXPC-eBcGnQLxzjzB5bb7eafisCKPFlCqJfEyQ=s288-p-rw-no">     
 </div>
  
 ##
