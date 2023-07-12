@@ -20,7 +20,7 @@
   <img align="center" alt="Csharp" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
                                  
-  <img align="right" alt="Avatar" height="150" width="150" src="[https://wifflegif.com/gifs/683935-request-naruto-gif](https://wifflegif.com/gifs/683935-request-naruto-gif)">     
+  <img align="right" alt="Avatar" height="150" width="150" src="https://66.media.tumblr.com/a98aad854cb29c107ba3a478c6c786c4/183af3fd00907478-06/s540x810/0395a77f98dd93adeb19e2286044b6edce9abbff.gif">     
 </div>
  
 ##
