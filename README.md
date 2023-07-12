@@ -2,7 +2,7 @@
 
 - 💻 Gosto muito de front-end e BI
 - 💬 Contate-me no email: gustavoruizprestes@yahoo.com.br
-- 😊 Pronouns: ele/dele
+- 😸 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/GustavoRuiz205">
