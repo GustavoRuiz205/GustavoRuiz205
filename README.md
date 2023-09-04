@@ -19,7 +19,7 @@
   <img align="center" alt="Bootstrap" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="React" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Java" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="center" alt="Kotlin" height="60" width="45" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css""> 
+  <img align="center" alt="Kotlin" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> 
   <img align="center" alt="Csharp" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
                                  
   <img align="right" alt="Avatar" height="170" width="330" src="https://66.media.tumblr.com/a98aad854cb29c107ba3a478c6c786c4/183af3fd00907478-06/s540x810/0395a77f98dd93adeb19e2286044b6edce9abbff.gif">     
