@@ -5,7 +5,7 @@
 - 💬 Contate-me no email: gustavoruizprestes@yahoo.com.br
 - 😸 Pronouns: ele/dele
 
-GustavoRuiz205
+
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustavoRuiz205&theme=onedark&mode=weekly" />
 <img width=38% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GustavoRuiz205&show_icons=true&theme=onedark&layout=compact" />
