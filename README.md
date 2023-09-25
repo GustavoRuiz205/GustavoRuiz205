@@ -7,8 +7,8 @@
 
 GustavoRuiz205
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustavoRuiz205&theme=onedark&mode=weekly" />
-<img width=33% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GustavoRuiz205&show_icons=true&theme=onedark&layout=compact" />
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustavoRuiz205&theme=onedark&mode=weekly" />
+<img width=35% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GustavoRuiz205&show_icons=true&theme=onedark&layout=compact" />
  </div>
 
 
