@@ -6,7 +6,7 @@
 - 😸 Pronouns: ele/dele
 
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 </div>
 
 <div style="display: inline_block"><br>
