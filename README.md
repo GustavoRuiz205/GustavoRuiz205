@@ -5,9 +5,11 @@
 - 💬 Contate-me no email: gustavoruizprestes@yahoo.com.br
 - 😸 Pronouns: ele/dele
 
-<div align="">
-<img height="250" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRuiz205&theme=zenburn">
-<img height="250" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoRuiz205&theme=zenburn">
+<div align="center">
+  <br>
+<img height="200" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRuiz205&theme=zenburn">
+<img height="200" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoRuiz205&theme=zenburn">
+  <br>
 </div>
 
 </div>
