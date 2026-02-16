@@ -6,8 +6,8 @@
 - 😸 Pronouns: ele/dele
 
 <div align="">
-<img height="400" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRuiz205&theme=zenburn">
-<img height="400" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoRuiz205&theme=zenburn">
+<img height="250" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRuiz205&theme=zenburn">
+<img height="250" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoRuiz205&theme=zenburn">
 </div>
 
 </div>
