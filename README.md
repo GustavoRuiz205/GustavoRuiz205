@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Gustavo Ruiz Prestes 👋
 
-- 💻 Gosto muito de front-end 
+- 💻 Formado em Gestão da Tecnologia da Informação
 - 🧬 Estudante de Ciências Biológicas 
 - 💬 Contate-me no email: gustavoruizprestes@yahoo.com.br
 - 😸 Pronouns: ele/dele
