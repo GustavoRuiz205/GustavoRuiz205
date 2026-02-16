@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoRuiz205m&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
+<img height="165" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRuiz205&theme=zenburn">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GustavoRuiz205&theme=gruvbox&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
