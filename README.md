@@ -6,7 +6,7 @@
 - 😸 Pronouns: ele/dele
 
 <div align="center">
-  
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRuiz205&theme=zenburn
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GustavoRuiz205&theme=gruvbox&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
