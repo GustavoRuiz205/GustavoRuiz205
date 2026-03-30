@@ -7,7 +7,7 @@
 
 <div align="center">
   <br>
-<img height="200" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRuiz205&theme=zenburn">
+<img height="200" alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRuiz205&theme=zenburn">
 <img height="200" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoRuiz205&theme=gruvbox">
   <br>
   <br>
