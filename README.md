@@ -7,8 +7,8 @@
 
 <div align="center">
   <br>
-<img height="200" alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRuiz205&theme=apprentice">
-<img height="200" alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoRuiz205&theme=apprentice">
+<img height="200" alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRuiz205&theme=ayu_mirage">
+<img height="200" alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoRuiz205&theme=ayu_mirage">
   <br>
   <br>
 </div>
